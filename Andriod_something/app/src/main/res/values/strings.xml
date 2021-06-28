@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="notepad">记事本</string>
+    <string name="input_value">请输入内容...</string>
+</resources>
